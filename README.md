@@ -5,6 +5,7 @@ If you see this, that means you have stumbled upon the page of Red Herring. Cong
 * Spotify listening history statistics (Python)
 * Multiple discord bots (Python)
 * Ways to make my school burden lighter
+* Procrastinating
 * Making conlangs
 
 ### :books: My interests
