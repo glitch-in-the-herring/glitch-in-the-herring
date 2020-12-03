@@ -2,11 +2,10 @@
 If you see this, that means you have stumbled upon the page of Red Herring. Congratulations.
 
 ### :telescope: What I'm working on
-* Spotify listening history statistics (Python)
-* Multiple discord bots (Python)
-* Ways to make my school burden lighter
-* Procrastinating
-* Making conlangs
+* Discord bots that do everything
+* Music
+* Languages
+* SPAAAAAAAAAAAAAAACE
 
 ### :books: My interests
 * Python
