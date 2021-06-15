@@ -6,6 +6,8 @@ If you see this, that means you have stumbled upon the page of Red Herring. Cong
 * Music
 * Languages
 * SPAAAAAAAAAAAAAAACE
+* Math
+* College
 
 ### :books: My interests
 * Python
