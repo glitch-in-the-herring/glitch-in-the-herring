@@ -5,12 +5,14 @@ If you see this, that means you have stumbled upon the page of Red Herring. Cong
 * Discord bots that do everything
 * Music
 * Languages
+* PSX related projects
 * SPAAAAAAAAAAAAAAACE
 * Math
 * College
 
 ### :books: My interests
 * Python
+* Tinkering around with games, some people call it "hacking"
 * Mathematics
 * Languages
 * Music
